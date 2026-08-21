@@ -171,17 +171,15 @@ The trickiest part was making sure the application was actually ready before sen
 
 ## Verification
 
-The following checks were completed successfully:
-
-* [ ] Flask application running
-* [ ] Nginx reverse proxy working
-* [ ] PostgreSQL running and healthy
-* [ ] `/health` endpoint returns `status: ok`
-* [ ] Application endpoint returns expected response
-* [ ] Database persistence verified
-* [ ] Application runs as non-root `appuser`
-* [ ] Container memory limits configured
-* [ ] No real passwords or secrets committed to Git
+ 🟢 Flask application running
+ 🟢 Nginx reverse proxy working
+ 🟢 PostgreSQL running and healthy
+ 🟢 /health endpoint returns status: ok
+ 🟢 Application endpoint returns expected response
+ 🟢 Database persistence verified
+ 🟢 Application runs as non-root appuser
+ 🟢 Container memory limits configured
+ 🟢 No real passwords or secrets committed to Git
 
 ## Screen Recording
 
