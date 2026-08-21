@@ -185,6 +185,7 @@ The trickiest part was making sure the application was actually ready before sen
 
 Paste the recording link here:
 
-```text
-PASTE YOUR RECORDING LINK HERE
-```
+
+PASTE YOUR RECORDING LINK HERE:
+https://drive.google.com/file/d/1mRD-LBzI_KCvcNXFjbhCl2zGfHi6acW5/view?usp=sharing
+
